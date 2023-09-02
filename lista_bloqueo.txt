@@ -2895,6 +2895,7 @@
 0.0.0.0 mixch.tv
 0.0.0.0 youtube.com
 0.0.0.0 lobi.co
+0.0.0.0 porn.com
 # blacklist
 #
 # The contents of this file (containing a listing of additional domains in
